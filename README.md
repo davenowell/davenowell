@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have always been captivated by innovative ideas that spawn technologies, services and solutions. This intrigue feeds my enthrallment with open source solutions and fuels my effort to communicate concepts as effectively as possible. I am a life-long learner and home automation aficionado.
+I have always been captivated by innovative ideas that spawn technologies, services and solutions. This intrigue fuels my effort to communicate concepts as effectively as possible. I am a life-long learner and home automation aficionado.
